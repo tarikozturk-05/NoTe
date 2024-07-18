@@ -14,6 +14,7 @@ return(
         scrolled && "border-b shadow-sm text-emerald-400"
     )}>
         <Logo />
+        sa değişiklik
         <div className="md:ml-auto md:justify-end justify-between w-full flex items-center gap-x-2">
             <ModeToggle />
         </div>
